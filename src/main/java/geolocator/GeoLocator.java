@@ -19,4 +19,7 @@ public interface GeoLocator {
             .target(GeoLocator.class, "http://ip-api.com/json/");
     }
 
+
 }
+
+
